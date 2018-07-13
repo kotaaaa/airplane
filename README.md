@@ -15,4 +15,5 @@ Arduinoに
 
 を取り付けて動作させた．
 
-
+当時の成果発表スライド（Prezi）
+http://prezi.com/fumf-2xbrvqe/?utm_campaign=share&utm_medium=copy&rc=ex0share
